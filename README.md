@@ -1,6 +1,6 @@
 # SonarLessonPlan
 
-# Online resources
+## Online resources
 
 + Avisoft is a manufacturer of ultrasonic microphones used to study the sounds produced by animals. Their website lists recordings of many animals, including bats and toothed whales. http://www.avisoft.com/animal-sounds
 
